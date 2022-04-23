@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: b66f5ad4bed4d4644841ea32c21f5bdb
+timeCreated: 1514190996
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: ACH pixel font
+  fontNames:
+  - ACH pixel font
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
